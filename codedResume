@@ -1,0 +1,189 @@
+%!TEX TS-program = xelatex
+\documentclass[]{friggeri-cv}
+\addbibresource{bibliography.bib}
+
+\begin{document}
+\header{Sebastian}{Chengattu}
+       {Engineering Management}
+      
+
+
+% In the aside, each new line forces a line break
+\begin{aside}
+  \section{Contact}
+   ~
+    4454 South Twinleaf Dr
+    85297, Gilbert Arizona 
+    ~
+    sebastianchengattu98
+    @gmail.com
+    ~
+    480 295 0300
+    ~
+  \section{Technical 
+  Skills}
+    {\color{red} $\varheartsuit$} 
+    LaTeX, Java,
+    Powerpoint,
+    Excel,Word
+    MATLAB,
+    CSS3 \& HTML5,
+    Arduino, 
+    PLP,C
+    C++, Pro log
+\end{aside}
+
+\section{Objective}
+
+As a student I am researching for internships that will prepare me to enter the work force. My goal is to "sharpen" my various skills and expand my current knowledge on writing an application. I am eager to learn something new and look for a position where I will be able to execute and succeed in an energizing environment. With a willingness to learn, this makes me an asset for teams or to work unaccompanied on given projects. Being able to give employers with full support, and use my technical-skills and marketing-skills to be able to get more work done efficiently will be my main focus when doing a job.    
+
+\section{Education}
+
+\begin{entrylist}
+  
+  \entry
+    {2016-Present}
+    {Under Graduate}
+    {Arizona State University}
+    {Engineering Management}
+    
+\end{entrylist}
+
+\section{CourseWork}
+
+\begin{entrylist}
+  \entry
+   {2011-2012}
+    {Business 101}
+    {Desert Ridge Junior High School}
+    {\emph{Learned Basic Knowledge of How a Business Works, Basic Computer    
+    Knowl-edge. }}
+  \entry
+    {---}
+    {Fix Viruses}
+    {Self Taught}
+    {\emph{}}
+   \entry
+   {2013-2015}
+    {Theatre}
+    {Perry High School}
+    {\emph{Acting Class, HairSpray The Musical,Student One Acts, StateChampion }}
+  \entry
+    {2014 - 2015}
+    {Software Engineering}
+    {Perry High School}
+    {\emph{HTML, CSS, Java.}}
+     \entry
+    {2014 - 2017}
+    {Notion Apparel- BummersPhx}
+    {Clothing Company}
+    {\emph{Self Made Clothing Line}}
+  \entry
+    {2015-2016}
+    {LaTeX}
+    {Self Taught}
+    {\emph{Basic Usage.}}
+  \entry
+    {2016}
+    {Coding/Computer Science Teachers Assistant}
+    {Perry High School}
+    {\emph{Assists in any task received. Graded and Evaluating Codes. }}
+    \entry 
+    {2016}
+    {Produce/Cashier}
+    {Gilbert SW Super Target}
+    {\emph{Sales man at in and outside the store bringing good reputation to the store, and working fast and efficiently.}}
+    \entry 
+    {2016}
+    {Arduino}
+    {Arizona State University}
+    {\emph{Build a self parking model car with using Arduino and works smoothly with a team.}}
+     \entry
+     {2016}
+    {MATLAB}
+    {Arizona State University}
+    {\emph{Basic usage of how the codes should be written.}}
+    \entry
+     {2016}
+    {FSE100}
+    {Arizona State University}
+    {\emph{learned the engineering design process and to create an autonomous vehicle.}}
+    \entry
+     {2016-2017}
+    {Gingerbread Shed}
+    {EQP-TPS}
+    {\emph{learned valuable communication skills and customer support aswell as work with devices to ensure their functionality to be deployed.}}
+
+\end{entrylist}
+
+\entry
+    {2017-2019}
+    {  Syro Malabar }
+    {DYA}
+    {\emph{ learned valuable management skills and customer support aswell as represent the west coast region nationally for church.}}
+\entry
+    {2019}
+    {  FSE 301 }
+    {ASU}
+    {\emph{ learned what makes a product profitable and how a company should mange their products effectively.}}
+
+\section{Key Skills}
+\entry 
+{Web Development}
+{}{}
+{ - Html, CSS, Latex, Java, Office, C++, C, Pro log.}
+\entry 
+{Leadership}
+{}
+{}
+{ - Problem Solving, Vision, Adaptable, Problem Solving, Critical Thinking, Determined,Industry Awareness, Confident.  }
+\entry
+{Communication}
+{}{}
+{ - Oral, Written, Team Player, Detailed. Transparent } 
+\entry
+{Manners}
+{}{}
+{ - Sincere, Honest, Enthusiastic, Positive Attitude.   } 
+
+\begin{entrylist}
+
+\section{Qualifications}
+\entry{}{}{}{}
+\entry{Ability to meet deadlines,work well under pressure and be detailed oriented.}{}{}{}
+\entry{Self Motivated, initiated, and maintains a high-level of energy.}{}{}{}
+\entry{Team player that can also work independently.}{}{}{}
+\entry{Tolerant and flexible, adjust easily to different situations.}{}{}{}
+\end{entrylist}
+\section{Extra Curricular Activities}
+
+\begin{entrylist}
+  \entry
+    {----}
+    {Tennis}
+    {School/Hobby}
+    {Played for 8 + years and in Varsity for School}
+  \entry
+    {----}
+    {Senior Choir/ YA Choir/ Sound Box Operator}
+    {HFSM Catholic Church}
+    {4+ years}
+  \entry
+   {----}
+    {Volunteer in Soup Kitchen}
+    {André House Of Hospitality}
+    {2+ years}
+     \entry
+   {----}
+    {Singer For The Witness Band}
+    {Annoiting Fire Catholic Youth Ministry}
+    {1 year}
+    \entry
+    {----}
+    {West Coast Representative}
+    {St. Thomas SMCC DYA}
+    {2 years }
+\end{entrylist}
+
+
+\end{document}
